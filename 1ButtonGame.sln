@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1ButtonGame", "1ButtonGame.csproj", "{3912A3AF-0BB9-7626-F4BA-51CBB2F442AC}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{EE9CBF1E-CB11-2FBE-28F3-4B83A59EB66B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3912A3AF-0BB9-7626-F4BA-51CBB2F442AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3912A3AF-0BB9-7626-F4BA-51CBB2F442AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3912A3AF-0BB9-7626-F4BA-51CBB2F442AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3912A3AF-0BB9-7626-F4BA-51CBB2F442AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE9CBF1E-CB11-2FBE-28F3-4B83A59EB66B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE9CBF1E-CB11-2FBE-28F3-4B83A59EB66B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE9CBF1E-CB11-2FBE-28F3-4B83A59EB66B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE9CBF1E-CB11-2FBE-28F3-4B83A59EB66B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
